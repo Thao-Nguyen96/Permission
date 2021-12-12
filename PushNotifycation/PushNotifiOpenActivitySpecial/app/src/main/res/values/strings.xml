@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushNotifiOpenActivity</string>
+    <string name="go_to_list_product">Go To List Product</string>
+    <string name="go_to_detail">Go to Detail</string>
+    <string name="channel_name">channel 1</string>
+    <string name="channel_description">this is channel 1</string>
+</resources>
